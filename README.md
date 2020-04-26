@@ -14,4 +14,9 @@ DELETE  |/api/v1/todos/:id/ | delete a todo with a given id
 ## Clone Project With
 ` git clone https://github.com/jod35/ToDoAPI-v1.git`
  
+## Install Project dependencies
+` npm install `
+
+## Run With 
+` npm start `
 
